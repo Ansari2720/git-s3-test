@@ -40,8 +40,8 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Talent lam onumila brother.</h2>
-			<h3>Contact @ +91-9597361516 </h3>
+			<h2>welcome to cloudcandy.</h2>
+			<h3>Done by Saddiq Ansari </h3>
 		</div>	
 	</div>
 
